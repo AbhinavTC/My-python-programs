@@ -1,2 +1,2 @@
-# myfirst_program
+# My python programs
  basic python programs
