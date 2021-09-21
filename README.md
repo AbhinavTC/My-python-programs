@@ -1,2 +1,2 @@
-# My python programs
+# Python learning
  basic python programs
